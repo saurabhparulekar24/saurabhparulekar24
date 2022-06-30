@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurabhparulekar24
 - 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning Radar Systems
+- 🌱 I’m currently working in Radar Systems
 - 💞️ I’m looking to collaborate on Automotive Radars and ADAS Technology
 - 📫 How to reach me : On my Email : saurabh.parulekar24@gmail.com
 
