@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Automotive Radars and ADAS Technology
 - 💻 Proficient in Developing Hardware design for complex systems in VHDL
 - 🦾 Card Development for VME64X Backplane for Defence Systems
-- 📫 How to reach me : On my Email : saurabh.parulekar24@gmail.com
+- 📫 How to reach me : On my Email : psaurabh@seas.upenn.edu
 
 <!---
 saurabhparulekar24/saurabhparulekar24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
