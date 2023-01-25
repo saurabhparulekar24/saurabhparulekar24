@@ -6,7 +6,6 @@
 - 💻 Proficient in Developing Hardware design for complex systems in VHDL
 - 🦾 Card Development for VME64X Backplane for Defence Systems
 - 📫 How to reach me: On my Email: psaurabh@seas.upenn.edu
-- 
 <!---
 saurabhparulekar24/saurabhparulekar24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
